@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on automat
 - 👯 I’m looking to collaborate on **innovative AI and automation projects**, as well as anything original or exiting. 
 - 🤔 I’m looking for help with scaling real-time applications, managing concurrency, and exploring new architectural patterns like microservices and event-driven systems.
 - 💬 Ask me about **AI integrations**, **advanced software development techniques**, and **latency optimization in async systems**.
-- 📫 How to reach me: You can find me at `sbake021@linux.cs.odu.edu`.
+- 📫 How to reach me: You can find me at `sbake021@odu.edu`.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve worked in **industrial automation** , so I have a soft spot for hardware and process optimization!
 
