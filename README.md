@@ -14,3 +14,9 @@ Here’s what I am focused on right now:
 - 📫 **How to reach me:** You can find me at `sbake021@odu.edu`.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I started in industrial automation and have successfully defended the servers orchestrating mission-critical manufacturing hardware against live ransomware attacks!
+CPU Scheduler — Simulates FIFO and SJF scheduling algorithms
+📺 Watch Demo
+
+Producer-Consumer — Solves the bounded buffer problem using POSIX threads, semaphores, and shared memory
+📺 Watch Demo
+
